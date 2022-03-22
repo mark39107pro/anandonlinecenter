@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(241, 239, 240);
+    background-image: url(pexels-alexander-kozlov-11033060.jpg);
+}
+h1{
+   color: rgb(117, 235, 117);
+}
+img{
+    border-color: aqua;
+}
+li{
+  text-emphasis-color: yellow;
+  font-size: large;
+  text-decoration-color: rgb(12, 37, 85);
+}
+h2{
+  color: blue;
+}
